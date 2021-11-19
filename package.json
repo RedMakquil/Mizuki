@@ -8,7 +8,7 @@
 	},
 	"repository": {
 	  "type": "git",
-	  "url": "git+https://github.com/MrJoka-Thejaka/Mizuki.git"
+	  "url": "git+https://github.com/dinukahimsara1/Mizuki.git"
 	},
 	"keywords": [
 	  "whatsapp",
@@ -24,13 +24,13 @@
 	  "whatsapp api",
 	  "mizuki-bot"
 	],
-	"author": "thejaka",
-	"developer": "sisula/thejaka",
+	"author": "Dinuka",
+	"developer": "DinukaHimsara/dinukahimsara1",
 	"license": "GPL-3.0-or-later",
 	"bugs": {
-	  "url": "https://github.com/MrJoka-Thejaka/Mizuki/issues"
+	  "url": "https://github.com/dinukahimsara1/Mizuki/issues"
 	},
-	"homepage": "https://github.com/MrJoka-Thejaka/Mizuki#readme",
+	"homepage": "https://github.com/dinukahimsara1/Mizuki#readme",
 	"dependencies": {
 	  "queen-mizuki": "^2.0.0"	
 	}                      
